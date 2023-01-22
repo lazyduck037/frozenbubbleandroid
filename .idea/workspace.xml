@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b76e52f-a30f-4f2b-ac6e-91d6f9c83bc9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_frozen_bubble-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/levels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/Android.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/Application.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/fastmix.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/jni_stubs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/libmodplug/it_defs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/libmodplug/sndfile.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/libmodplug/stdafx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_669.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_abc.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_amf.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_ams.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_dbm.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_dmf.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_dsm.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_far.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_it.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_j2b.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_mdl.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_med.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_mid.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_mod.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_mt2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_mtm.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_okt.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_pat.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_pat.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_psm.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_ptm.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_s3m.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_stm.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_ult.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_umx.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_wav.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/load_xm.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/mmcmp.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/modplug.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/modplug.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/snd_dsp.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/snd_flt.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/snd_fx.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/sndfile.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/sndmix.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jni/tables.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-hdpi/app_frozen_bubble.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-ldpi/app_frozen_bubble.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-mdpi/app_frozen_bubble.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-xhdpi/app_frozen_bubble.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/app_frozen_bubble.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/back_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/background2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/banana.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bluetooth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bubble_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bubble_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bubble_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bubble_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bubble_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bubble_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bubble_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bubble_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bubble_blink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bubble_colourblind_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bubble_colourblind_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bubble_colourblind_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bubble_colourblind_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bubble_colourblind_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bubble_colourblind_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bubble_colourblind_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bubble_colourblind_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/bubble_font.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/close_eyes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/compressor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/compressor_body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/fixed_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/fixed_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/fixed_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/fixed_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/fixed_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/fixed_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/frozen_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/frozen_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/frozen_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/frozen_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/frozen_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/frozen_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/frozen_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/frozen_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/home_screen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/hurry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/life.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/lose_panel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/pause_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/pause_panel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/penguins.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/penguins2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/play_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/round_button.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/splash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/tomato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/victory.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/void_panel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/win_panel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout/activity_preferences_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout/activity_scrolling_credits.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout/activity_splash_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout/seek_bar_preference.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/aftertherain.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/ambientlight.xm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/ambientpower.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/androidrupture.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/applause.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/artificial.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/bluestars.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/chungababe.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/crystalhammer.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/destroy_group.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/dreamscope.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/freefall.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/gaeasawakening.xm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/homesick.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/hurry.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/ifcrystals.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/introzik.xm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/launch.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/lose.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/newroot_solo.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/noh.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/popcorn.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/rebound.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/stardustmemories.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/stick.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/sunshineofthemorningsun.xm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/technostyleiii.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/whip.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/worldofpeace.it" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values-de/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values-es/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values-fr/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values-is/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values-pt-rBR/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values-sw600dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values-sw720dp-land/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values-zh-rCN/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values/color.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efortin/frozenbubble/AccelerometerManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efortin/frozenbubble/BluetoothManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efortin/frozenbubble/CRC16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efortin/frozenbubble/ComputerAI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efortin/frozenbubble/HighscoreDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efortin/frozenbubble/HighscoreDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efortin/frozenbubble/HighscoreManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efortin/frozenbubble/HomeScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efortin/frozenbubble/ModPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efortin/frozenbubble/NetworkManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efortin/frozenbubble/Preferences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efortin/frozenbubble/PreferencesActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efortin/frozenbubble/ScrollingCredits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efortin/frozenbubble/ScrollingTextView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efortin/frozenbubble/SeekBarPreference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efortin/frozenbubble/UDPSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efortin/frozenbubble/VirtualInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/peculiargames/andmodplug/MODResourcePlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/peculiargames/andmodplug/PlayerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/gsanson/frozenbubble/CollisionHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/gsanson/frozenbubble/Freile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/gsanson/frozenbubble/MalusBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/gsanson/frozenbubble/Opponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jfedor/frozenbubble/BmpWrap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jfedor/frozenbubble/BubbleFont.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jfedor/frozenbubble/BubbleManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jfedor/frozenbubble/BubbleSprite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jfedor/frozenbubble/Compressor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jfedor/frozenbubble/FrozenBubble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jfedor/frozenbubble/FrozenGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jfedor/frozenbubble/GameScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jfedor/frozenbubble/GameView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jfedor/frozenbubble/ImageSprite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jfedor/frozenbubble/LaunchBubbleSprite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jfedor/frozenbubble/LevelManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jfedor/frozenbubble/PenguinSprite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jfedor/frozenbubble/SoundManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jfedor/frozenbubble/Sprite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/BuildInstructions.wiki" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/GameMusic.wiki" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[2e15c2d9]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="frozenbubbleandroid" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KaazoMOy63PRWysg7hzNwjrrpZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/macmall/Workspace/frozenbubbleandroid&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="frozenbubbleandroid.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app.androidTest" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="frozenbubbleandroid.app.androidTest" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app.unitTest" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="frozenbubbleandroid.app.unitTest" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b76e52f-a30f-4f2b-ac6e-91d6f9c83bc9" name="Changes" comment="" />
+      <created>1674215412179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674215412179</updated>
+    </task>
+    <servers />
+  </component>
+</project>
