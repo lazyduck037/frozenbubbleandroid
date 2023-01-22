@@ -766,8 +766,7 @@ public class GameView extends SurfaceView
         res, R.drawable.compressor_body, options);
       mLifeOrig = BitmapFactory.decodeResource(
         res, R.drawable.life, options);
-      mFontImageOrig = BitmapFactory.decodeResource(
-        res, R.drawable.bubble_font, options);
+      mFontImageOrig =  ResourceLoader.bubble_font(res, options);
       mBananaOrig = BitmapFactory.decodeResource(
         res, R.drawable.banana, options);
       mTomatoOrig = BitmapFactory.decodeResource(
@@ -954,8 +953,7 @@ public class GameView extends SurfaceView
           res, R.drawable.compressor_body, options);
       mLifeOrig = BitmapFactory.decodeResource(
            res, R.drawable.life, options);
-      mFontImageOrig = BitmapFactory.decodeResource(
-          res, R.drawable.bubble_font, options);
+      mFontImageOrig = ResourceLoader.bubble_font(res, options);
       mBananaOrig = null;
       mTomatoOrig = null;
 
